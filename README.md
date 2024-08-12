@@ -1,0 +1,1 @@
+Bu projede, bir web sitesi için oluşturulan trafik loglarını kullanarak bir soru-cevap (Q&A) sistemi geliştirmeniz istenmektedir. Bu sistem, kullanıcılardan gelen doğal dildeki soruları alacak, ilgili log verilerini analiz edecek ve bu verilerle en uygun yanıtları oluşturacaktır. Sistemin temelinde Retrieval-Augmented Generation (RAG) modeli yer alacaktır.
